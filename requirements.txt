@@ -20,7 +20,7 @@ multiprocess==0.70.16
 numpy==1.22.1
 packaging==25.0
 pandas==2.0.3
-Pillow==9.4.0
+Pillow==10.3.0
 propcache==0.2.0
 pyarrow==17.0.0
 Pygments==2.19.2
