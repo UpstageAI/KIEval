@@ -7,7 +7,7 @@ certifi==2025.11.12
 charset-normalizer==3.4.4
 datasets==3.1.0
 dill==0.3.8
-filelock==3.16.1
+filelock==3.20.3
 frozenlist==1.5.0
 fsspec==2024.9.0
 hf-xet==1.2.0
